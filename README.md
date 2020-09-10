@@ -1,4 +1,5 @@
-Задание
+ЗАДАНИЕ:
+
 Необходимо разработать React-приложение для отображения таблицы с данными. Дополнительным плюсом будет: Финальный билд приложения должен быть запускаться из Docker контейнера (хотябы с минимальной конфигурацией)
 
 Функционал
@@ -32,6 +33,7 @@
 		description: 'et lacus magna dolor...',
 	}
 }
+
 Маленький объем данных берется по ссылке http://www.filltext.com/?rows=32&id={number|1000}&firstName={firstName}&lastName={lastName}&email={email}&phone={phone|(xxx)xxx-xx-xx}&address={addressObject}&description={lorem|32}
 
 Большой объем данных берется по ссылке http://www.filltext.com/?rows=1000&id={number|1000}&firstName={firstName}&delay=3&lastName={lastName}&email={email}&phone={phone|(xxx)xxx-xx-xx}&address={addressObject}&description={lorem|32}
@@ -55,6 +57,7 @@
 +------+------------+-----------------+-----------------+---------------+
 | 103  | Ips        | Umdolo          | dwhalley@in.gov | (612)211-6296 |
 +------+------------+-----------------+-----------------+---------------+
+
 Если выделен пользователем с id = 101, то под таблицей выводим следующую информацию:
 
 Выбран пользователь <b>Sue Corson</b>
