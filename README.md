@@ -1,3 +1,8 @@
+- Download repository files
+- in console "npm run start"
+- Wait for the project to open in the browser
+- Use
+
 ЗАДАНИЕ:
 
 Необходимо разработать React-приложение для отображения таблицы с данными. Дополнительным плюсом будет: Финальный билд приложения должен быть запускаться из Docker контейнера (хотябы с минимальной конфигурацией)
